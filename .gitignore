@@ -1,0 +1,20 @@
+# Python virtual environment
+
+venv/
+
+# Secrets file
+
+.env
+
+# Generated database
+
+chroma_db/
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# macOS metadata
+
+.DS_Store
